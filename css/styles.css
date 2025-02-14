@@ -222,6 +222,19 @@ ul {
     opacity: 1;
   }
 }
+
+/*testament bg svg*/
+
+.testamentbg {
+  background-image:url('/images/testament-blue.svg') no-repeat;
+  position:absolute;
+  top:0;
+  left:0;
+  width: 75%;
+  height:auto;
+  opacity: 0.2;
+
+}
 /* Banner */
 .banner {
   position: relative;
@@ -277,7 +290,8 @@ ul {
 
 .btn-primary {
   background-color: #00bece;
-  color: white;
+  color: rgb(0, 0, 0);
+  font-size:larger;
   font-weight: 500;
 }
 .btn-primary:hover {
@@ -286,8 +300,8 @@ ul {
 }
 
 .btn-secondary {
-  background-color: transparent;
-  color: white;
+  background-color: rgba(0, 190, 206, 0.2);
+  color: #00bece;
   font-weight: 500;
   border: 2px solid #00bece;
 }
@@ -1177,3 +1191,49 @@ footer .footer-owner img {
     font-size: 13px;
   }
 }/*# sourceMappingURL=styles.css.map */
+
+/*pricing*/
+
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.pricing-item {
+  background: #202020;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.pricing-item h3 {
+  color: #00bece;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.pricing-item ul {
+  list-style: none;
+  padding: 10px;
+}
+
+.pricing-item ul li {
+  margin-bottom: 10px;
+  font-size: 0.95rem;
+  color: #00bece;
+}
+
+.pricing-item ul li strong {
+  color: #ffffff;
+}
+
+.disclaimer {
+  font-size: 0.9rem;
+  color: #b0b0b0;
+  margin-top: 20px;
+  text-align: center;
+}
+

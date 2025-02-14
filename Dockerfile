@@ -13,7 +13,7 @@
 # most recent version of that tag when you build your Dockerfile.
 # If reproducability is important, consider using a specific digest SHA, like
 # php@sha256:99cede493dfd88720b610eb8077c8688d3cca50003d76d1d539b0efc8cca72b4.
-FROM php:8.1.28-apache
+FROM php:8.2.12-apache
 
 # Copy app files from the app directory.
 COPY . /var/www/html

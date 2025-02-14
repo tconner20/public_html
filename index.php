@@ -41,6 +41,7 @@
 
         </div>
     </div>
+
     <div class="container">
         <div class="section">
             <div class="section-content">
@@ -49,7 +50,13 @@
                 <br>
                 <p>Our team combines <span class="blue-text">creative design</span>, <span class="blue-text">high-quality materials</span>, and <span class="blue-text">flawless installation</span> to deliver
                     stunning results. From eye-catching vehicle wraps to transformative wall murals, we’re here to bring your vision to life.</p>
-                <br>
+                    <div class="testamentbg">
+            </div>
+        </div>   
+    </div>
+    <div class="container">
+        <div class="section">
+            <div class="section-content">
                 <h3>Why Choose Us?</h3>
                 <ul class="blueboxol">
                     <li>Strategic Design: We create custom graphics that not only look amazing but also drive results.</li><br>
@@ -303,6 +310,80 @@
             </script>
         </div>
     </div>
+            
+    <div class="container">
+    <div class="section">
+        <div class="section-content">
+            <h2>Pricing for Custom Vehicle Wraps & Graphics</h2>
+            <p>At Testament Graphic House, we offer competitive pricing for high-quality custom wraps and graphics. Below is a general guide to help you understand the costs involved. For a personalized quote, <a href="contact.php">contact us today</a>!</p>
+
+            <div class="pricing-grid">
+                <!-- Partial Wrap -->
+                <div class="pricing-item">
+                    <h3>Partial Wrap</h3>
+                    <p>Ideal for highlighting specific areas of your vehicle, such as doors, hoods, or accents.</p>
+                    <ul>
+                        <li><strong>Starting at:</strong> $350 - $2,500</li>
+                        <li><strong>Best for:</strong> Small businesses, personal vehicles, or accent designs.</li>
+                    </ul>
+                </div>
+
+                <!-- Full Wrap -->
+                <div class="pricing-item">
+                    <h3>Full Wrap</h3>
+                    <p>Transform your entire vehicle with a custom design that turns heads and promotes your brand.</p>
+                    <ul>
+                        <li><strong>Starting at:</strong> $2,800 - $5,000+</li>
+                        <li><strong>Best for:</strong> Businesses looking for mobile advertising or individuals wanting a complete vehicle transformation.</li>
+                    </ul>
+                </div>
+
+                <!-- Commercial Wraps -->
+                <div class="pricing-item">
+                    <h3>Commercial Wraps</h3>
+                    <p>Promote your business with eye-catching designs on vans, trucks, or fleet vehicles.</p>
+                    <ul>
+                        <li><strong>Starting at:</strong> $3,500 - $10,000+</li>
+                        <li><strong>Best for:</strong> Businesses with fleets or large vehicles needing branding solutions.</li>
+                    </ul>
+                </div>
+
+                <!-- Color Change Wraps -->
+                <div class="pricing-item">
+                    <h3>Color Change Wraps</h3>
+                    <p>Give your vehicle a fresh new look without the commitment of a paint job.</p>
+                    <ul>
+                        <li><strong>Starting at:</strong> $2,800 - $5,000+</li>
+                        <li><strong>Best for:</strong> Auto enthusiasts or individuals wanting a unique look.</li>
+                    </ul>
+                </div>
+
+                <!-- Chrome Deletes -->
+                <div class="pricing-item">
+                    <h3>Chrome Deletes</h3>
+                    <p>Replace chrome accents with sleek, modern finishes for a customized look.</p>
+                    <ul>
+                        <li><strong>Starting at:</strong> $350 - $2,500</li>
+                        <li><strong>Best for:</strong> Luxury vehicle owners or those seeking a minimalist aesthetic.</li>
+                    </ul>
+                </div>
+
+                <!-- Wall Murals & Graphics -->
+                <div class="pricing-item">
+                    <h3>Wall Murals & Graphics</h3>
+                    <p>Bring your space to life with custom wall graphics or murals.</p>
+                    <ul>
+                        <li><strong>Starting at:</strong> $5 - $15 per square foot</li>
+                        <li><strong>Best for:</strong> Offices, retail spaces, or event branding.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <p class="disclaimer"><em>Note: Prices are approximate and may vary based on vehicle size, design complexity, and material selection. <a href="contact.php">Contact us</a> for a detailed quote tailored to your needs.</em></p>
+        </div>
+    </div>
+</div>
+
 
     <div class="contact-us">
         <div class="contact-us-item">
