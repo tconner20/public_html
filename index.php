@@ -62,18 +62,25 @@
         </div>
     </div>
 
-    <div class="container">
-        <div class="section">
-            <div class="section-content">
-                <p>At Testament Graphic House, we believe your brand deserves to stand out. Whether you’re a small business looking to
-                    elevate your marketing or an automotive enthusiast wanting to customize your ride, our custom vehicle wraps and graphics have you covered.</p>
-                <br>
-                <p>Our team combines <span class="blue-text">creative design</span>, <span class="blue-text">high-quality materials</span>, and <span class="blue-text">flawless installation</span> to deliver
+
+    <div class="container-bg-tst">
+        <img src="assets/images/testament-white.png" alt="">
+
+        <div class="container">
+            <div class="why-choose-us">
+                <div class="why-choose-us-item">
+                    <p>At Testament Graphic House, we believe your brand deserves to stand out. Whether you’re a small business looking to
+                    elevate your marketing or an automotive enthusiast wanting to customize your ride, our custom vehicle wraps and graphics have you covered.</p></p>
+                </div>
+
+                <div class="why-choose-us-item">
+                    <p>Our team combines <span class="blue-text">creative design</span>, <span class="blue-text">high-quality materials</span>, and <span class="blue-text">flawless installation</span> to deliver
                     stunning results. From eye-catching vehicle wraps to transformative wall murals, we’re here to bring your vision to life.</p>
-                    <div class="testamentbg">
+                </div>
             </div>
-        </div>   
+        </div>
     </div>
+
     <div class="container">
         <div class="section">
             <div class="section-content">
@@ -334,8 +341,10 @@
     <div class="container">
     <div class="section">
         <div class="section-content">
-            <h2>Pricing for Custom Vehicle Wraps & Graphics</h2>
-            <p>At Testament Graphic House, we offer competitive pricing for high-quality custom wraps and graphics. Below is a general guide to help you understand the costs involved. For a personalized quote, <a href="contact.php">contact us today</a>!</p>
+            <div class="title">
+                <h2>Pricing for Custom Vehicle Wraps & Graphics</h2>
+                <p>At Testament Graphic House, we offer competitive pricing for high-quality custom wraps and graphics. Below is a general guide to help you understand the costs involved. For a personalized quote, <a href="contact.php">contact us today</a>!</p>
+            </div>
 
             <div class="pricing-grid">
                 <!-- Partial Wrap -->
@@ -402,6 +411,35 @@
             <p class="disclaimer"><em>Note: Prices are approximate and may vary based on vehicle size, design complexity, and material selection. <a href="contact.php">Contact us</a> for a detailed quote tailored to your needs.</em></p>
         </div>
     </div>
+
+    <div class="container">
+                <div class="title">
+                    <h2>Check out a recent work of branding art!</h2>
+                </div>
+        <div class="home-grid">
+                <div class="home-grid-item">
+                    <div class="home-grid-content">
+                        <h3>High Vision Tree Service Custom Truck Wrap</h3>
+                        <a href="highvisiontruckwrap.php" class="btn btn-secondary">See It!</a>
+                    </div>
+                    <img src="assets/images/recent-highvision.jpg" alt="Advertising Truck Wrap in Charlotte NC"></a>
+                </div>    
+            <div class="home-grid-item">
+                <div class="home-grid-content">
+                    <h3>HydroHelp911 Custom BoxTruck Wrap</h3>
+                    <a href="hhboxtruck.php" class="btn btn-secondary">See It!</a>
+                </div>
+                <img src="assets/images/recent-hhboxtruck.jpg" alt="Custom Printed Wrapped BoxTruck in Charlotte NC"></a>
+            </div>
+            <div class="home-grid-item">
+                <div class="home-grid-content">
+                    <h3>Brancer Homes Escape</h3>
+                    <a href="brancer-homes-escape.php" class="btn btn-secondary">See It!</a>
+                </div>
+                <img src="assets/images/recent-brancerhomes.jpg" alt="Custom Printed Commercial Wrapped SUV">
+            </div>
+        </div>
+    
 </div>
 
 

@@ -218,6 +218,13 @@
                     <p>Kpmf Gloss Hypnotic Black Violet</p>
                 </div>
             </a>
+            <a href="highvisiontruckwrap.php" class="gallery-grid-item" data-category="Truck Commercial">
+                <img src="assets/images/highvisiontruck/highvisiontruck1.jpg" width="440" height="330" alt="">
+                <div class="gallery-grid-item-info">
+                    <h3>Advertising Truck Wrap</h3>
+                    <p>Custom Design, Full Print Truck Wrap</p>
+                </div>
+            </a>
         </div>
         <div class="container">
         <h3 class="blue-text">Why Choose Us?</h3>
