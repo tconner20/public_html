@@ -21,6 +21,25 @@
     <meta name="keywords" content="custom graphics gallery Denver NC, vehicle wraps portfolio Charlotte NC, wall murals gallery, vinyl printing examples, best custom graphics company near me, see our work">
     <link rel="shortcut icon" href="assets/icons/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/styles.css?v=2">
+
+    <!-- Meta Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '3141447399452566');
+        fbq('track', 'PageView');
+        </script>
+        <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=3141447399452566&ev=PageView&noscript=1"
+        /></noscript>
+        <!-- End Meta Pixel Code -->
+         
 </head>
 
 <body>
@@ -197,6 +216,13 @@
                 <div class="gallery-grid-item-info">
                     <h3>Tesla Model Y</h3>
                     <p>Kpmf Gloss Hypnotic Black Violet</p>
+                </div>
+            </a>
+            <a href="highvisiontruckwrap.php" class="gallery-grid-item" data-category="Truck Commercial">
+                <img src="assets/images/highvisiontruck/highvisiontruck1.jpg" width="440" height="330" alt="">
+                <div class="gallery-grid-item-info">
+                    <h3>Advertising Truck Wrap</h3>
+                    <p>Custom Design, Full Print Truck Wrap</p>
                 </div>
             </a>
         </div>
